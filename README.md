@@ -29,6 +29,5 @@ This project was developed as part of the **Entrepreneurship in Computing** cour
 - **Artificial Intelligence (AI)**  
 - **Natural Language Processing (NLP)**  
 - **Web Development:** React.js, Node.js  
-- **Backend & Database:** Firebase  
 - **AI Integration:** Cohere AI API  
 
