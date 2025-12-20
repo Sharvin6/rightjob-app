@@ -31,3 +31,4 @@ This project was developed as part of the **Entrepreneurship in Computing** cour
 - **Web Development:** React.js, Node.js  
 - **AI Integration:** Cohere AI API  
 
+<img width="1892" height="875" alt="image" src="https://github.com/user-attachments/assets/061dc64c-b17d-4873-8612-a8ae8e4a7a90" />
