@@ -1,10 +1,10 @@
 const express = require('express');
-const multer = require('multer');
-const cors = require('cors');
-const pdfParse = require('pdf-parse');
+const multer = require('multer'); //Multer: For handling file uploads.
+const cors = require('cors'); //CORS: Allows the frontend (React) to communicate with backend.
+const pdfParse = require('pdf-parse'); //pdf-parse: To extract text from uploaded PDF resumes.
 const fs = require('fs');
-const axios = require('axios');
-require('dotenv').config();
+const axios = require('axios'); //Axios: To make API calls to Cohere AI.
+require('dotenv').config(); //dotenv: To manage your API key securely.
 
 const app = express();
 const upload = multer({
